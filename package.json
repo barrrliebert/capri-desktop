@@ -13,7 +13,7 @@
     "build": "node scripts/build-linux.js",
     "build:linux": "node scripts/build-linux.js",
     "test": "npm run test:syntax && npm run test:hooks",
-    "test:syntax": "node --check src/main/*.js src/preload.js scripts/*.js hooks/*.js",
+    "test:syntax": "node scripts/check-syntax.js",
     "test:hooks": "node --test tests/hooks.test.js",
     "check:llm": "node scripts/check-llm.js",
     "hooks:install": "node scripts/install-hooks.js",
