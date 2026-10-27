@@ -15,7 +15,7 @@ const KEEP = new Set([
   'explorer', 'applicationframehost', 'textinputhost', 'shellexperiencehost', 'startmenuexperiencehost',
   'searchhost', 'searchapp', 'lockapp', 'dwm',
   // Universal
-  'capri', 'electron', 'claude', 'codex', 'ollama', 'ollama app',
+  'capri', 'electron', 'claude', 'codex', 'antigravity', 'agy', 'ollama', 'ollama app',
   // Linux DEs & components
   'xfce4-panel', 'xfdesktop', 'xfwm4', 'xfsettingsd', 'x-session-manager',
   'gnome-shell', 'gnome-panel', 'mutter',
