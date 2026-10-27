@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.4.0] - 2026-10-27
+## [0.5.0] - 2026-10-27
 
 ### Added
 - **Native Linux X11 Support**: Full window tracking, sitting, and possession support on Linux running X11.
@@ -35,7 +35,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [0.3.1] - 2026-10-26
+## [0.4.3] - 2026-10-26
+
+### Added
+- Launch websites and streaming services by name directly from Capri's chat.
+
+## [0.4.2] - 2026-10-26
+
+### Added
+- Display settings for multi-monitor setups and black screen recovery.
+
+## [0.4.1] - 2026-10-25
+
+### Added
+- Google Gemini provider support for chat.
+- Improved persona stability and taskbar foreground persistence.
+
+## [0.4.0] - 2026-10-25
+
+### Added
+- Antigravity (AGY) and OpenAI Codex adapter integrations alongside Claude Code.
+- Multi-provider chat support (local, cloud, keyless gateways).
+- App launching and system wake-from-sleep handling.
+
+## [0.3.2] - 2026-10-24
+
+### Added
+- Taskbar resting animation and standalone mode without Claude Code.
 
 ### Changed
 - Refined introduction sequence: smoother animations and cleaner transitions.
